@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/travel-mbti/static/css/main.80698aa8.css",
+    "main.js": "/travel-mbti/static/js/main.804b5992.js",
+    "static/js/453.416a685b.chunk.js": "/travel-mbti/static/js/453.416a685b.chunk.js",
+    "static/media/stamp-15.png": "/travel-mbti/static/media/stamp-15.c616b770374908465d82.png",
+    "static/media/stamp-16.png": "/travel-mbti/static/media/stamp-16.f72072fa0356cbd26382.png",
+    "static/media/stamp-01.png": "/travel-mbti/static/media/stamp-01.c43c9d1d478b7cf6a125.png",
+    "static/media/note.jpg": "/travel-mbti/static/media/note.a2ef47f55abcdb8e338f.jpg",
+    "static/media/stamp-07.png": "/travel-mbti/static/media/stamp-07.7e419cbbe057dd3f8361.png",
+    "static/media/stamp-13.png": "/travel-mbti/static/media/stamp-13.1d83e5791085194d1378.png",
+    "static/media/stamp-03.png": "/travel-mbti/static/media/stamp-03.9be2ddd0f2f93986c113.png",
+    "static/media/stamp-06.png": "/travel-mbti/static/media/stamp-06.2d8c888b9155a1521423.png",
+    "static/media/stamp-09.png": "/travel-mbti/static/media/stamp-09.ea5dbed4203ebe144c4c.png",
+    "static/media/stamp-04.png": "/travel-mbti/static/media/stamp-04.2240cae530d75083037b.png",
+    "static/media/stamp-08.png": "/travel-mbti/static/media/stamp-08.64c91bc361a65ea97c99.png",
+    "static/media/stamp-11.png": "/travel-mbti/static/media/stamp-11.9a6a2b6290e41b459225.png",
+    "static/media/calender.png": "/travel-mbti/static/media/calender.546a36d7ead442487693.png",
+    "static/media/stamp-02.png": "/travel-mbti/static/media/stamp-02.1798a33328953b7d5a60.png",
+    "static/media/stamp-14.png": "/travel-mbti/static/media/stamp-14.a4893f0642e085f61fee.png",
+    "static/media/stamp-05.png": "/travel-mbti/static/media/stamp-05.fa4736c3d6e633a2a633.png",
+    "static/media/ticket.png": "/travel-mbti/static/media/ticket.688d006bdad55bd01167.png",
+    "static/media/stamp-12.png": "/travel-mbti/static/media/stamp-12.ad1a86e1d6304a6c0272.png",
+    "static/media/stamp-10.png": "/travel-mbti/static/media/stamp-10.526234df0c075ae50b02.png",
+    "static/media/start.png": "/travel-mbti/static/media/start.b5a9401fdd2958255dd7.png",
+    "static/media/title.png": "/travel-mbti/static/media/title.c97cd83d51648ebf4a2b.png",
+    "static/media/chain.png": "/travel-mbti/static/media/chain.0f7ad4978fd49a16517d.png",
+    "static/media/back.png": "/travel-mbti/static/media/back.a43b4fe5285d3634fab9.png",
+    "index.html": "/travel-mbti/index.html",
+    "main.80698aa8.css.map": "/travel-mbti/static/css/main.80698aa8.css.map",
+    "main.804b5992.js.map": "/travel-mbti/static/js/main.804b5992.js.map",
+    "453.416a685b.chunk.js.map": "/travel-mbti/static/js/453.416a685b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80698aa8.css",
+    "static/js/main.804b5992.js"
+  ]
+}
